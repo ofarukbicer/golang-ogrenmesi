@@ -6,4 +6,4 @@ nasıl yaptığıma bakarak kendim ile dalga geçeyim ben bu kodu nasıl böyle 
 
 | Tarih      | İsmi          | Durum | Link  |
 |------------|---------------|-------|-------|
-| 📅 02.06.2021 | 🌏 havaDurumuApp | ✅ Bitti | [🔗 Link](https://github.com/ofarukbicer/golang-ogrenmesi/havaDurumu-app) |
+| 📅 02.06.2021 | 🌏 havaDurumuApp | ✅ Bitti | [🔗 Link](https://github.com/ofarukbicer/golang-ogrenmesi/tree/main/havaDurumu-app) |
