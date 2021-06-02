@@ -6,5 +6,5 @@ nasıl yaptığıma bakarak kendim ile dalga geçeyim ben bu kodu nasıl böyle 
 
 | Tarih      | İsmi          | Durum | Link  |
 |------------|---------------|-------|-------|
-| 📅 01.06.2021 | 🕸 echo-boilerplate | 📖 Gelişme Aşamasında | [🔗 Link](https://github.com/ofarukbicer/echo-boilerplate) |
+| 📅 31.05.2021 | 🕸 echo-boilerplate | 📖 Gelişme Aşamasında | [🔗 Link](https://github.com/ofarukbicer/echo-boilerplate) |
 | 📅 02.06.2021 | 🌏 havaDurumuApp | ✅ Bitti | [🔗 Link](https://github.com/ofarukbicer/golang-ogrenmesi/tree/main/havaDurumu-app) |
