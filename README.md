@@ -6,6 +6,6 @@ nasıl yaptığıma bakarak kendim ile dalga geçeyim ben bu kodu nasıl böyle 
 
 | Tarih      | İsmi          | Durum | Link  |
 |------------|---------------|-------|-------|
-| 📅 31.05.2021 | 🕸 echo-boilerplate | ✅ Bitti | [🔗 Link](https://github.com/ofarukbicer/echo-boilerplate) |
+| 📅 31.05.2021 | 🕸 echo-boilerplate | 📖 Gelişme Aşamasında | [🔗 Link](https://github.com/ofarukbicer/echo-boilerplate) |
 | 📅 02.06.2021 | 🌏 havaDurumuApp | ✅ Bitti | [🔗 Link](https://github.com/ofarukbicer/golang-ogrenmesi/tree/main/havaDurumu-app) |
-| 📅 26.07.2021 | 👷🏼 loadBalancerApp | 📖 Gelişme Aşamasında | [🔗 Link](https://github.com/ofarukbicer/golang-ogrenmesi/tree/main/loadBalancer-app) |
+| 📅 26.07.2021 | 👷🏼 loadBalancerApp | ✅ Bitti | [🔗 Link](https://github.com/ofarukbicer/golang-ogrenmesi/tree/main/loadBalancer-app) |
